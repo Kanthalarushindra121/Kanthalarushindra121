@@ -10,6 +10,10 @@
 <a href="https://www.linkedin.com/in/rushindrakanthala" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn - Rushindra Kanthala" height="30" width="40" />
 </a>
+<a href="mailto:rushindrakanthala@gmail.com" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="rushindrakanthala@gmail.com" height="30" width="40" />
+</a>
+
 
 </p>
 
