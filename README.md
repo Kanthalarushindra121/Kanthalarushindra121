@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Real Time Parking Lot Monitoring Using Adaptive Image Processing**
 
-- 🌱 I’m currently learning **Full Stack Dev, Devops**
-
-- 👨‍💻 All of my projects are available at [https://kanthalarushindra.my.canva.site/](https://kanthalarushindra.my.canva.site/)
+- 👨‍💻 My portfolio website [https://kanthalarushindra.my.canva.site/](https://kanthalarushindra.my.canva.site/)
 
 - 📫 How to reach me **kanthalarushindra@gmail.com**
 
